@@ -1,0 +1,48 @@
+body{
+    background-image: url(./wallpapersden.com_k-natural-gradient_1440x900.jpg);
+    background-repeat: no-repeat;
+}
+.navBar{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.navSlot{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+.navItem{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.Name{
+    color:beige;
+    font-size: 5.5rem;
+    display: flex;
+    justify-content: center;
+}
+.details{
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+}
+.footer{
+    display: flex;
+justify-content: center;
+}
+.foot{
+    padding-top: 10vh;
+}
